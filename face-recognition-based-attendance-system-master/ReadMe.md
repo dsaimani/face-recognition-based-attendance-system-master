@@ -6,7 +6,7 @@ A smart attendance system using **face recognition** built with **Python**, **Fl
 
 ## 🖼 Preview
 
-![App UI Preview](55d8854d-277d-4719-a80e-f6d047018ec9.png)
+![App UI Preview](face-recognition-based-attendance-system-master/Screenshot 2025-07-11 184903.png)
 
 ---
 
